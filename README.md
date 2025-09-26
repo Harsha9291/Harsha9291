@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harsha9291
 - 👀 I’m interested in web development
-- 🌱 I’m currently MERN STACK DEVELOPMENT
+- 🌱 I’m currently MERN STACK DEVELOPER
 
 
 <!---
